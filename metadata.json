@@ -1,0 +1,6 @@
+{
+  "name": "AI Text Summarizer",
+  "description": "Collez n'importe quel texte ou article et obtenez un résumé clair, rapide et intelligent généré par l'IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
